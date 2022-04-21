@@ -1,9 +1,4 @@
-myList = ["Winter","Spring","Summer","Autumn"]
-myList.sort()
-print(myList)
-myList.pop(0)
-print(myList)
-myList.append("Autumn")
-print(myList)
-myList.remove("Winter")
-print(myList)
+teams = ["England","Iran","USA","Wales"]
+teams.append("Poland")
+teams.pop(3)
+print(teams)
