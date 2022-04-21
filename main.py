@@ -1,5 +1,3 @@
-teams = ["England","Iran","USA","Wales"]
-teams.append("Poland")
-teams.pop(3)
-teams.sort()
-print(teams)
+names= ["Jessica","Alison","Phillipa","Sue","Deborah"]
+for x in range(0,len(names)):
+  print(names[x])
