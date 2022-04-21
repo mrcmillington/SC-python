@@ -1,5 +1,3 @@
-teams = ["England","Iran","USA","Wales"]
-print(teams[2])
-print(teams[3])
-print(teams[1])
-print(teams[0])
+points = [ 17,20,13,16,19,22]
+for x in range(0,len(points)):
+  print(points[x])
